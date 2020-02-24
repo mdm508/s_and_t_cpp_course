@@ -2,6 +2,7 @@
  * Matthew McLaughlin
  * 2/20/20
  * see https://classes.mst.edu/compsci1570/hw2.htm for details
+ * 
 */ 
 
 #include <iostream>
